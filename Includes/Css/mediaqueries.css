@@ -141,6 +141,15 @@
         margin: 0;
     }
 
+    main .recent-orders .customer-container .customer-form .details {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    main .recent-orders .customer-container .customer-form .fields .input-fields input[type="text"] {
+        width: 100%;
+    }
+
     .right {
         width: 94%;
         margin: 0 auto 4rem;
@@ -182,4 +191,6 @@
     .right .top button span {
         font-size: 2rem;
     }  
+
+    
 }

@@ -19,6 +19,8 @@
     --border-radius-1: 0.4rem;
     --border-radius-2: 0.8rem;
     --border-radius-3: 1.2rem;
+    --text-border-radius: 1rem;
+    --text-border-radius-active: 1rem;
 
     --card-padding: 1.8rem;
     --padding-1: 1.2rem;
@@ -556,6 +558,7 @@ main .recent-orders a {
 
 
 /* ==================== STYLING FORM  ==================== */
+
 
 
 
