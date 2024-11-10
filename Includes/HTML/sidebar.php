@@ -4,8 +4,8 @@
         <!-- Start For Logo -->
         <div class="top">
             <div class="logo">
-                <img src="./Assets/Images/logo.png" alt="JOST LOGO">
-                <h2>WRAP<span class="danger">IT</span></h2>
+                <img src="Assets/Images/profile.jpg" alt="LOGO HERE">
+                <h2>Sys<span class="danger">tem</span></h2>
             </div>
             <div class="close" id="close-btn">
                 <span class="material-icons-sharp">close</span>
