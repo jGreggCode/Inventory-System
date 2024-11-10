@@ -50,25 +50,7 @@ main .recent-orders .customer-container .customer-form .fields .input-fields lab
     font-size: .9rem;
 }
 
-main .recent-orders .customer-container .customer-form .fields .input-fields input[type="text"],
-select {
-    font-size: .9rem;
-	padding: 5px 10px;
-	width: 80%;
-	outline: none;
-	background: #FFFFFF;
-	color: #000000;
-	border: 1px solid var(--color-light);
-	border-radius: 3px;
-	transition: .3s ease;
+.customer-form-buttons {
+    margin-top: 1rem;
 }
 
-main .recent-orders .customer-container .customer-form .fields .input-fields input[type="text"]:focus {
-	background: #F2F2F2;
-	border: 1px solid #5A7EC7;
-	border-radius: 15px;
-}
-
-.input::placeholder {
-	color: #DDDDDD;
-}
